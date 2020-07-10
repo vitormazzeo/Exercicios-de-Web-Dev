@@ -1,3 +1,3 @@
 # Exercícios contendo HTML, CSS, JS, BOOTSTRAP, etc.
 
-Repositório criado para guardar alguns dos exercícios propostos no curso Desenvolvimento Web Completo.
+Repositório criado para guardar alguns dos exercícios propostos no curso Desenvolvimento Web Completo do professor Jamilton Damasceno.
