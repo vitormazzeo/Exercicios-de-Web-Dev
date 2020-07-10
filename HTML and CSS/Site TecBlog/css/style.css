@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #e6e6e6;
+}
+
+#a-navbar {
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#a-titulo, #a-menu {
+    padding: 10px;
+}
+
+a {
+    font-weight: bold;
+}
+
+h1{
+    font-size: 2.5em;
+    color: #4e4e4e;
+}
+
+.branco {
+    color: white;
+}
+
+#a-navbar a:link, #a-navbar a:visited {
+    color: #FFF;
+    padding: 8px 12px;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+#a-navbar a:hover {
+    background: #FFF;
+    color: #f7b600;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+#principal {
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#conteudos {
+    float: left;
+    width: 660px;
+}
+
+#menu-lateral {
+    float: right;
+    width: 240px;
+}
+
+.post {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+    border-radius: 2px;
+}
+
+#rodape {
+    text-align: center;
+    background-color: #CCC;
+    clear: both;
+    padding: 15px;
+}
+
+h2 {
+    color: #f7b600;
+}
+
+h3 {
+    color: #565656;
+    background: #CCC;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.data-post {
+    font-size: 0.8em;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.conteudo-lat {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 2px;  
+}
+
+.text-lat {
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+.conteudo-lat a:link ,.conteudo-lat a:visited {
+    color: #f7b600;
+    text-decoration: none;
+}
+
+.conteudo-lat a:hover {
+    color: #f7b600;
+    text-decoration: none;
+}
